@@ -1,0 +1,1 @@
+Showcase records as DTO
